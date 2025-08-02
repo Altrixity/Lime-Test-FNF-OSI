@@ -1,0 +1,51 @@
+
+
+██████╗░░█████╗░████████╗████████╗░█████╗░███████╗██╗░░██╗███████╗
+██╔══██╗██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔════╝╚██╗██╔╝██╔════╝
+██████╦╝███████║░░░██║░░░░░░██║░░░██║░░██║█████╗░░░╚███╔╝░█████╗░░
+██╔══██╗██╔══██║░░░██║░░░░░░██║░░░██║░░██║██╔══╝░░░██╔██╗░██╔══╝░░
+██████╦╝██║░░██║░░░██║░░░░░░██║░░░╚█████╔╝███████╗██╔╝╚██╗███████╗
+╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░░░░╚═╝░░░░╚════╝░╚══════╝╚═╝░░╚═╝╚══════╝
+
+*DOWNLOAD*
+	Bat To Exe Software: https://www.battoexeconverter.com/
+
+
+*Buld Info (non admin)*---(Feel free to alter as much as you want!)
+
+	OS:Windows
+
+	Image Count; Single
+	Select Icon: logo.ico
+
+	Title: Lime Test-FNF (non admin)
+	Center Window: Check
+
+	Include Version Info: Check
+	Product name: Lime Test-FNF
+	Description: Easily run Lime test for Psych Engine
+	Company: Altrixity
+	Copyright Nun LOL
+
+*Buld Info (admin)*---(Feel free to alter as much as you want!)
+
+	OS:Windows
+
+	Image Count; Single
+	Select Icon: logo.ico
+
+	Title: Lime Test-FNF (admin)
+	Center Window: Check
+	Run as Admin: Check
+
+	Include Version Info: Check
+	Product name: Lime Test-FNF
+	Description: Easily run Lime test for Psych Engine
+	Company: Altrixity
+	Copyright Nun LOL
+
+*COMPILE/BUILD*
+	1.Just click "Build EXE"
+	2.Choose export area (Preferably replace Lime Test-FNF.exe or Lime Test-FNF Admin Version.exe in exports folder)
+	3.Wait a second
+	4.Done
